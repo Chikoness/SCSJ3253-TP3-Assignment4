@@ -49,8 +49,8 @@
         <div class="col-md-6 mb-5">
             <div class="card h-100">
                 <div class="card-body">
-                    <h2 class="card-title">Top 10 Halal</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem magni quas ex numquam, maxime minus quam molestias corporis quod, ea minima accusamus.</p>
+                    <h2 class="card-title">Top 10 "Halal"</h2>
+                    <p class="card-text">Top 10 Halal food in Penang for breakfast, lunch and dinner. Enjoy your food!</p>
                 </div>
                 <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>
             </div>
@@ -58,8 +58,8 @@
         <div class="col-md-6 mb-5">
             <div class="card h-100">
                 <div class="card-body">
-                    <h2 class="card-title">Top 10 Non-Halal</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod tenetur ex natus at dolorem enim! Nesciunt pariatur voluptatem sunt quam eaque, vel, non in id dolore voluptates quos eligendi labore.</p>
+                    <h2 class="card-title">Top 10 "Non-Halal"</h2>
+                    <p class="card-text">Top 10 Non Halal food in Penang for breakfast, lunch and dinner. Enjoy your food!</p>
                 </div>
                 <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>
             </div>
