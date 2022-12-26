@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Masterpage/Site1.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="PenangFoodHunter.About" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Masterpage/Site1.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="PenangFoodHunter.About" Theme="Theme1"%>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <title>About Us</title>
 </asp:Content>
