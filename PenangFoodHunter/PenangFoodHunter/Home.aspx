@@ -52,7 +52,7 @@
                     <h2 class="card-title">Top 10 "Halal"</h2>
                     <p class="card-text">Top 10 Halal food in Penang for breakfast, lunch and dinner. Enjoy your food!</p>
                 </div>
-                <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>
+                <div class="card-footer"><a class="btn btn-primary btn-sm" href="Halal.aspx">More Info</a></div>
             </div>
         </div>
         <div class="col-md-6 mb-5">
@@ -61,7 +61,7 @@
                     <h2 class="card-title">Top 10 "Non-Halal"</h2>
                     <p class="card-text">Top 10 Non Halal food in Penang for breakfast, lunch and dinner. Enjoy your food!</p>
                 </div>
-                <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>
+                <div class="card-footer"><a class="btn btn-primary btn-sm" href="NonHalal.aspx">More Info</a></div>
             </div>
         </div>
 
