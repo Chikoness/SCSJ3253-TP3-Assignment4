@@ -69,10 +69,21 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="App_Themes\Theme1\styles.css" />
+    <Content Include="Halal.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="img\AboutBanner1.jpg" />
     <Content Include="img\AboutBanner2.jpg" />
     <Content Include="img\AboutBanner3.jpg" />
+    <Content Include="img\Halal\BawalGoreng.jpeg" />
+    <Content Include="img\Halal\Capati.jpg" />
+    <Content Include="img\Halal\CharKuehTiaw.jpg" />
+    <Content Include="img\Halal\KariKepalaIkan.jpg" />
+    <Content Include="img\Halal\LaksaPenang.jpg" />
+    <Content Include="img\Halal\MeeSotong.jpg" />
+    <Content Include="img\Halal\Murtabak.JPG" />
+    <Content Include="img\Halal\Nasi7Benua.jpg" />
+    <Content Include="img\Halal\NasiKandar.jpg" />
+    <Content Include="img\Halal\Pasembur.jpg" />
     <Content Include="img\Logo.png" />
     <Content Include="img\slider image1.jpg" />
     <Content Include="img\slider image2.jpg" />
@@ -87,6 +98,13 @@
     </Compile>
     <Compile Include="About.aspx.designer.cs">
       <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Halal.aspx.cs">
+      <DependentUpon>Halal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Halal.aspx.designer.cs">
+      <DependentUpon>Halal.aspx</DependentUpon>
     </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
