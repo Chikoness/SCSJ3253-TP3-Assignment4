@@ -16,7 +16,7 @@
                     <h5 class="card-title">Nasi Kandar Deen Jelutong</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Everyday - 6am - 11:30pm
+                        Everyday > 6am - 11:30pm
                         <br />
                         &nbsp
                     </p>
@@ -39,7 +39,7 @@
                     <h5 class="card-title">Bawal Goreng Pokok Cheri</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Sun to Fri - 11:30am - 6:30pm
+                        Sun to Fri > 11:30am - 6:30pm
                         <br />
                         <i>Saturday - Closed</i>
                     </p>
@@ -59,7 +59,7 @@
                     <h5 class="card-title">PakSu Curry House</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Mon to Sat - 5:30pm - 10:00pm
+                        Mon to Sat > 5:30pm - 10:00pm
                         <br />
                         <i>Sunday - Closed</i>
                     </p>
@@ -80,7 +80,7 @@
                     <h5 class="card-title">Nasi 7 Benua</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Everyday - 11:00am - 11:00pm
+                        Everyday > 11:00am - 11:00pm
                         <br />
                         &nbsp
                     </p>
@@ -102,7 +102,7 @@
                     <h5 class="card-title">Capati Arang Sultania</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Everyday - 8am - 11:30pm
+                        Everyday > 8am - 11:30pm
                         <br />
                         &nbsp
                     </p>
@@ -123,7 +123,7 @@
                     <h5 class="card-title">Murtabak Hameediyah</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Everyday - 10am - 10pm
+                        Everyday > 10am - 10pm
                         <br />
                         &nbsp
                     </p>
@@ -143,7 +143,7 @@
                     <h5 class="card-title">Hussain Pasembur</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Everyday - 6am - 11:30pm
+                        Everyday > 6am - 11:30pm
                         <br />
                         &nbsp
                     </p>
@@ -162,7 +162,7 @@
                     <h5 class="card-title">Hameed Pata Mee Sotong</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Mon to Sat - 11:30am - 8pm
+                        Mon to Sat > 11:30am - 8pm
                         <br />
                         <i>Sunday - Closed</i>
                     </p>
@@ -184,14 +184,14 @@
                     <h5 class="card-title">Mamu Famous Sg Pinang</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Mon to Sat - 3pm - 8pm
+                        Mon to Sat > 3pm - 8pm
                         <br />
                         <i>Sunday - Closed</i>
                     </p>
                     <p class="card-text">
                         <b>Location :</b><br />
                         Taman Lita, 11600 Jelutong, Penang
-                        <br />
+                        <br />&nbsp
                     </p>
                     <a href="https://goo.gl/maps/oWEbJsydWu6bdSCU8" target="_blank" class="btn btn-primary">WAZE</a>
                 </div>
@@ -199,13 +199,13 @@
         </div>
         <div class="col-6 col-md-3">
             <div class="card" style="width: 30rem;">
-                <img src="img/Halal/CharKuehTiaw.jpg" class="card-img-top" alt="MeeKari">
+                <img src="img/Halal/CharKuehTiaw.jpg" class="card-img-top" alt="CharKuehTiaw">
                 <div class="card-body">
                     <h5 class="card-title">Zam CharKueyTeow</h5>
                     <p class="card-text">
                         <b>Operating Hours :</b><br />
-                        Everyday - 6pm - 11:30pm
-                     
+                        Everyday > 6pm - 11:30pm
+                     <br />&nbsp
                     </p>
                     <p class="card-text">
                         <b>Location :</b><br />

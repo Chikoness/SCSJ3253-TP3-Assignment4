@@ -85,6 +85,16 @@
     <Content Include="img\Halal\NasiKandar.jpg" />
     <Content Include="img\Halal\Pasembur.jpg" />
     <Content Include="img\Logo.png" />
+    <Content Include="img\NonHalal\CharHoFun.jpg" />
+    <Content Include="img\NonHalal\CurryMee.jpg" />
+    <Content Include="img\NonHalal\FishHeadCharbeeHoon.jpg" />
+    <Content Include="img\NonHalal\HokkienMeePrawn.jpg" />
+    <Content Include="img\NonHalal\LamMee.jpg" />
+    <Content Include="img\NonHalal\LokLok.jpg" />
+    <Content Include="img\NonHalal\LorBak.jpg" />
+    <Content Include="img\NonHalal\LorMee.jpg" />
+    <Content Include="img\NonHalal\MincedPorkPorridge.jpg" />
+    <Content Include="img\NonHalal\OhChien.jpg" />
     <Content Include="img\slider image1.jpg" />
     <Content Include="img\slider image2.jpg" />
     <Content Include="img\slider image3.jpg" />
